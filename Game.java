@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class Game {
+public class Mystery_Number {
     public int count=0;
     public int ran,g;
     public Game(){
